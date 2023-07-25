@@ -1,0 +1,280 @@
+body{
+ overflow: auto;
+ min-width: 200px;
+ max-width: 1000px;
+}
+
+.one
+{
+    width: 600px;
+    margin-left: 40px;
+    box-shadow: 1px 1px 16px rgb(195, 195, 195);
+    height: 1000px;
+    background-image: url(images/bg-header-desktop.png);
+    padding: 50px;
+    overflow: hidden;
+    margin-left: 440px;
+    position: relative;
+    z-index: 10;
+    margin-top: 140px;
+    background-color: white;
+
+} 
+#logo1
+{
+    position: relative;
+   margin-left: 240px;
+   width: 64px;
+}
+#center
+{
+    text-align: center;
+}
+#keep
+{
+    text-align: center;
+    font-size: larger;
+}
+#adam
+{
+    text-align: center;
+    font-size:14px;
+    color:rgb(204, 204, 204);
+    line-height: 1.4;
+}
+#saouab
+{
+    position:relative;
+    margin-left: 300px;
+    right: 0;
+    margin-top: -220px;
+    font-size: 10px;
+}
+#hist
+{
+    text-align: center;
+    font-size: larger;
+
+}
+#same
+{
+    color: rgb(204, 204, 204);
+    line-height: 1.2;
+}
+#anylaste
+{
+    margin-left: 180px;
+    margin-top: 140px;
+}
+#para7
+{
+text-align: center;
+margin-left: -140px;
+color:rgb(204, 204, 204);
+font-size: 13px;
+}
+#para1
+{
+    text-align: center;
+    font-size: 13px;
+    line-height: 1.6;
+    color: rgb(204, 204, 204);
+    margin-top: -5px;
+    margin-bottom: 30px;
+}
+
+#green
+{
+    background-color: rgb(48, 206, 153);
+    color:white;
+    border-radius: 16px;
+    height: 30px;
+    border: 0;
+    box-shadow: 1px 1px 8px rgb(33, 184, 123);
+    border: 0;
+    margin-right:10px
+
+}
+#green:hover
+{
+    background-color: rgba(58, 226, 229, 0.646);
+    color: rgb(231, 141, 14);
+}
+#purpe
+{
+    background-color: rgb(101, 43, 226);
+    color: white;
+    border-radius: 16px;
+    height: 30px;
+    border: 0;
+    box-shadow: 1px 1px 8px rgb(175, 101, 232);
+}
+#purpe:hover
+{
+    background-color: rgba(24, 124, 218, 0.646);
+    color: rgb(220, 41, 128);
+}
+#computer
+{
+    width: 300px;
+    margin-left: -60px;
+    margin-top: 36px;
+    height: 250px;
+}
+#device
+{
+    width: 440px;
+    height: 200px;
+    margin-top: 74px;
+    text-align: center;
+    margin-left: 100px;
+    
+}
+#device2
+{
+    position: relative;
+    display:flex;
+    margin-left: 100px;
+    width: 400px;
+ 
+
+
+}
+.two /*  from her start the second one*/
+{
+    width: 640px;
+    height: 1060px;
+    background-color: rgb(253, 253, 253);
+    margin-left: 900px;
+    top:5px;
+    position:absolute;
+    box-shadow: 1px 1px 33px rgb(206, 206, 206);
+    margin-right: 130px;
+    padding: 44px;
+
+}
+#access
+{
+    text-align: center;
+    font-style:unset;
+    text-decoration: wavy;
+    font-size: larger;
+    
+}
+#par1
+{
+    text-align: center;
+    color: rgb(221, 221, 221);
+}
+#work
+{
+    text-align: center;
+}
+#super
+{
+    font-size: larger;
+    text-decoration: wavy;
+    font-style: italic;
+}
+#par2
+{
+    text-align: center;
+    color: rgb(221, 221, 221);
+}
+#are
+{
+    position: relative;
+    display:flex;
+    justify-content: start;
+    font-size: 12px;
+    margin-top:40px
+}
+#mark
+{
+    font-size: larger;
+}
+#par3
+{
+    color: rgb(221, 221, 221);
+}
+#logo
+{
+    position: relative;
+    display: flex;
+    justify-content:start;
+    margin-left: 0;
+    width: 16px;
+    height: 30px;
+    margin-bottom: 76px;
+    margin-top: 40px;
+    gap: 26px;
+
+}
+#last
+{
+    text-align: center;
+    position: relative;
+}
+#clip
+{
+    font-size: larger;
+}
+#par4
+{
+    font-size: 13px;
+    color: rgb(221, 221, 221);
+}
+#but
+{
+    margin-top: 36px;
+    
+}
+#bottom
+{
+    background-color: rgb(244, 244, 244);
+    width:730px;
+    height: 100px;
+    position:relative;
+    margin-top: 120px;
+    display: flex;
+    justify-content: start;
+    margin-left: -44px;
+    bottom:0;
+    gap: 40px;
+}
+#media
+{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    display: flex;
+    justify-content:flex-end;
+    gap: 17px;
+    margin-left: 260px;
+    margin-right: 0px;
+    margin-top: 36px;
+}
+#one
+{
+position: relative;
+display: flex;
+justify-content: flex-start;
+gap: 26px;
+padding: 16px;
+white-space: nowrap;
+color:rgb(181, 180, 180);
+}
+#two
+{
+    margin-top: 34px;
+    white-space: nowrap;
+    color:rgb(181, 180, 180);
+
+}
+#guide
+{
+    white-space: nowrap;
+    margin-top: 60px;
+    margin-left: -248px;
+    color:rgb(181, 180, 180);
+}
